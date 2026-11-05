@@ -17,25 +17,18 @@ Dự án phân tích dữ liệu sử dụng bộ dữ liệu **Titanic** trên 
 
 ```text
 Titanic/
-
 ├── README.md
-
 ├── Vũ\_Hồng\_Nhung.ipynb
-
 ├── titanic.pdf
-
 └── data/
-
-&#x20;   ├── train.csv
-
-&#x20;   ├── test.csv
-
-&#x20;   └── gender\_submission.csv
+  ├── train.csv
+  ├── test.csv
+  └── gender\_submission.csv
 ```
 
 ## 4\. Cài đặt môi trường và chạy trên Google Colab
 
-**Bước 1.** Mở `Vũ\_Hồng\_Nhung.ipynb` bằng Google Collab .
+**Bước 1.** Mở `Vũ_Hồng_Nhung.ipynb` bằng Google Collab .
 
 **Bước 2.** Chọn **Runtime → Run all** để chạy các ô phân tích theo thứ tự.
 
