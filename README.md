@@ -16,7 +16,7 @@ Dự án phân tích dữ liệu sử dụng bộ dữ liệu **Titanic** trên 
 ## 3\. Cấu trúc dự án
 
 ```text
-Titanic/
+titanic/
 
 ├── README.md
 ├── titanic.ipynb
